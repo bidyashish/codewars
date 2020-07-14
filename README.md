@@ -1,5 +1,5 @@
-# Code wars | geeksforgeeks | Technical Questions | Interview Questions | Codepad  | Javascript 
-> A list of technocal questions using  Javscript | js  node.js
+# Code wars | geeksforgeeks | Technical Questions | Interview Questions | Coderpad  | Javascript 
+> A list of technical questions using  Javscript | js  node.js
 
 > Click :star:if you like it. Submiting Pull Request are highly appreciated. Check me [@Bidyashish](https://www.bidyashish.com).
 
@@ -43,6 +43,23 @@ find array[a,b]  where a+b = sum
 
 eg: From above array 1+6 = 7
 so Answers is [1,6]
+```
+---
+**[⬆ Back to Top](#Getting-Started)**
+---
+
+> The maximum sum subarray problem consists in finding the maximum sum of a contiguous subsequence in an array or list of integers:
+
+Easy case is when the list is made up of only positive numbers and the maximum sum is the sum of the whole array. If the list is made up of only negative numbers, return 0 instead.
+
+Empty list is considered to have zero greatest sum. Note that the empty list or array is also a valid sublist/subarray.
+
+check [continous-subsequence.js](/continous-subsequence.js).
+```
+
+maxSequence([1, 2, 3, 4]
+
+output: 10
 ```
 ---
 **[⬆ Back to Top](#Getting-Started)**
