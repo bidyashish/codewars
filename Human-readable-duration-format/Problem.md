@@ -23,4 +23,4 @@ A component will not appear at all if its value happens to be zero. Hence, 1 min
 
 A unit of time must be used "as much as possible". It means that the function should not return 61 seconds, but 1 minute and 1 second instead. Formally, the duration specified by of a component must not be greater than any valid more significant unit of time.
 
-ALGORITHMSFORMATSSTRINGSDATES/TIMEFORMATTING
+ALGORITHMS FORMATS STRING DATES /TIME FORMATTING
