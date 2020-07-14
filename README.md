@@ -64,6 +64,24 @@ output: 10
 ---
 **[⬆ Back to Top](#Getting-Started)**
 ---
+
+> Javascript Implementation of Longest Common Subsequence
+
+Find longest common subsequence between two strings
+
+check [longest-common-subsequence.js](/longest-common-subsequence.js).
+```
+String1 = AGGTAB
+String2 = GXTXAYB
+
+Result array conatining LCS is G,T,A,B
+Length of result array 4
+Result string GTAB
+
+```
+---
+**[⬆ Back to Top](#Getting-Started)**
+---
 Bidyashish Kumar [@Bidyashish](https://www.bidyashish.com).
 
 LinkedIn profile: [@Bidyashish](https://www.linkedin.com/in/bidyashish/).
