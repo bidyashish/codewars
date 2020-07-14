@@ -16,6 +16,8 @@ node triplets-array-given-sum.js
 ```
 ---
 > Given an array and a value, find if there is a triplet in array whose sum is equal to the given value. If there is such a triplet present in array, then print the triplet and return true. Else return false
+
+check [triplets-array-given-sum.js](/triplets-array-given-sum.js).
 ```
 arr=[1, 4, 45, 6, 10, 8]
 
@@ -30,6 +32,8 @@ so Answers is [4,10,8]
 ---
 
 > Given an array and a value, find if there is a pairs in array whose sum is equal to the given value. If there is such a pairs present in array, then print the pairs and return true. Else return false
+
+check [pair-array-given-sum.js](/pair-array-given-sum.js).
 ```
 arr=[1, 4, 45, 6, 10, 8]
 
@@ -43,4 +47,6 @@ so Answers is [1,6]
 ---
 **[⬆ Back to Top](#Getting-Started)**
 ---
-Bidyashish Kumar
+Bidyashish Kumar [@Bidyashish](https://www.bidyashish.com).
+
+LinkedIn profile: [@Bidyashish](https://www.linkedin.com/in/bidyashish/).
